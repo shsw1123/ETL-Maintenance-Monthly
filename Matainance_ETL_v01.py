@@ -3,8 +3,8 @@ import os
 from datetime import datetime
 
 
-target_directory = "C:/Users/USER/Desktop/Data/Target/"
-source_folder = "C:/Users/USER/Desktop/Data/"
+target_directory = "C:/target directory path/"
+source_folder = "C:/raw directory path/"
 
 
 def extraction():
